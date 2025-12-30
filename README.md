@@ -41,6 +41,17 @@ Con estos comandos se puede identificar la dirreción IP de mi maquina virtual, 
 - System updates
 - User and permission review
 - Service analysis
+Commands used:
+sudo apt update && sudo apt upgrade
+sudo systemctl list-units --type=service
+
+<img width="642" height="464" alt="image" src="https://github.com/user-attachments/assets/803aa071-1785-4ad9-96f8-80658a9adea6" />
+
+#Result
+Active system services were identified and analyzed to understand which processes
+are running by default. This helps reduce the attack surface by identifying
+unnecessary services in a Linux environment.
+Servicios activos fueron identificados y analizados, nos ayuda a reducir ataques al identificar servicios inecesarios en Linux. 
 
 # Author
 Andrea Mendez Coox  
