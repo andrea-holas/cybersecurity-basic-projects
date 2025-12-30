@@ -9,7 +9,7 @@ Este repeositorio contiene prácticas básicas qu he estado realizando en los pr
 - Analysis of authentication logs (auth.log)
 - Identification of failed login attempts
 - Use of basic Linux commands (journalctl, grep)
-# Commands used
+ Commands used
 ```bash
 sudo journalctl -p err -b
 sudo journalctl --since "today" -u ssh
@@ -25,7 +25,7 @@ Estos comandos permiten identificar erroes de autenticación SSH recientes con e
 - Configuration of Kali Linux in VirtualBox
 - Basic network commands
 - Safe testing environment
-# Commands used
+ Commands used
 ip a
 nmap localhost
 
