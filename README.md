@@ -8,7 +8,8 @@ Este repeositorio contiene prácticas básicas qu he estado realizando en los pr
 # Project 1: Linux Log Analysis
 - Analysis of authentication logs (auth.log)
 - Identification of failed login attempts
-- Use of basic Linux commands (cat, grep)
+- Use of basic Linux commands (journalctl, grep)
+<img width="646" height="514" alt="image" src="https://github.com/user-attachments/assets/b61cf0a9-c98a-42c3-aaca-9e29c6ff0bdd" />
 
 
 # Project 2: Virtual Machines for Security Testing
